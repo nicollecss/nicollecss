@@ -1,4 +1,4 @@
-## Olá, eu sou a Nicolle!
+## Olá, eu sou a Nicolle!🙃
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollecss/)
 
@@ -14,6 +14,6 @@
   <img align="center" alt="bottstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-#### Embora esteja apenas começando nessa área, estou totalmente comprometida a aprender e a me aperfeiçoar continuamente. Estou disposta a absorver novas técnicas e recebo críticas e feedbacks como oportunidades valiosas para meu crescimento.
+#### Embora esteja apenas começando nessa área, estou totalmente comprometida a aprender e a me aperfeiçoar continuamente. Estou disposta a absorver novas técnicas e recebo críticas e feedbacks. 👾
 
   
